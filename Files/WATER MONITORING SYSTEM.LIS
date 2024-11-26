@@ -1,0 +1,15 @@
+AutoECO Report
+FILE-A: I:\WATER MONITRING SYSTEM\WATER MONITORING SYSTEM.MAX
+FILE-B: I:\WATER MONITRING SYSTEM\WATER MONITORING SYSTEM.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package BC547
+Adding component Q2
+Deleting Q1.1 from net GND
+Adding Q2.3 to net GND
+Deleting Q1.3 from net N07294
+Adding Q2.1 to net N07294
+Deleting Q1.2 from net N08587
+Adding Q2.2 to net N08587
+Deleting component Q1
+*EOF*
+No errors found

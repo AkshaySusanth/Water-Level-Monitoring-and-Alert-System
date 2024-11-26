@@ -1,0 +1,35 @@
+  Revised: Wednesday, July 11, 2018
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           July 11,2018      15:49:59	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	C1	100uF
+2	1	C2	10uF
+3	1	C3	1uF
+4	1	C4	0.1uF
+5	1	D1	1n4007
+6	1	D2	LED
+7	1	ESP1	esp12
+8	3	J1,J2,J3	CON2
+9	1	J4	12V in
+10	1	J5	AC
+11	1	J6	Program Pins
+12	1	LS1	RELAY SPDT
+13	1	Q1	BC107
+14	7	R1,R2,R3,R8,R9,R10,R11	10k
+15	1	R4	390
+16	1	R5	220
+17	1	R6	680
+18	1	R7	560
+19	2	SW2,SW1	SW PUSHBUTTON-SPST-2
+20	1	U1	78HT2
+21	1	U2	LM317/CYL
